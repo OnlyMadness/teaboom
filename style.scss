@@ -176,7 +176,7 @@ h3 {
     background-color: #fff;
     cursor: pointer;
     border-radius: 5px;
-    border: solid 1px gray;
+    border: solid 1px #bfbfbf;
     padding: 10px;
 
     &:hover {
@@ -272,5 +272,9 @@ h3 {
 
     .btn--packaging {
         padding: 15px;
+    }
+
+    .btn--buy {
+        width: 100%;
     }
 }
