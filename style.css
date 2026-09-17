@@ -149,6 +149,7 @@ h3 {
 }
 .product .product__wrapper .product__card .product__content .product__footer .product__inner .product__prices .product__old-price {
   text-decoration: line-through;
+  color: gray;
 }
 .product .product__wrapper .product__info {
   background-color: #fefcef;
